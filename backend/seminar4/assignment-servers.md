@@ -18,3 +18,4 @@
 - Public IPv4 DNS: http://ec2-3-35-68-140.ap-northeast-2.compute.amazonaws.com
 - HTTP Domain: http://waffle-backend-sanggyu.shop
 - HTTPS Domain: https://waffle-backend-sanggyu.shop
+asdf
